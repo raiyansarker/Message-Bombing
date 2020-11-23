@@ -1,6 +1,6 @@
 # Message Bombing Tool
 
-This is a message mombing tool made on top of python. It is a very very small application but it might help you out. Got a few minutes, thought of making this app and practise a bit. Thanks!
+This is a message bombing tool made on top of python. It is a very very small application but it might help you out. Got a few minutes, thought of making this app and practise a bit. Thanks!
 
   - Type anything on anywhere
   - Type as much as you want
